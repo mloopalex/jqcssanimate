@@ -1,9 +1,9 @@
 {
   "name": "jqcssanimate",
+  "version": "1.0.1",
   "authors": [
     "mloop"
   ],
-  "version": "0.0.1",
   "description": "animateCss and jquery",
   "main": "",
   "ignore": [
