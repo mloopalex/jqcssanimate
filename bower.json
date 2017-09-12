@@ -1,0 +1,15 @@
+{
+  "name": "jqcssanimate",
+  "authors": [
+    "mloop"
+  ],
+  "version": "0.0.1",
+  "description": "animateCss and jquery",
+  "main": "",
+  "ignore": [
+    ".gitignore",
+    "bower.json",
+    "README.md"
+  ],
+  "homepage": "https://github.com/mloopalex/jqcssanimate.git"
+}
